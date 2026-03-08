@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Old Town Road",
+  "base_artist": "Lil Nas X",
+  "createdAt": "2026-03-08T06:52:17.936481Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Old Town Road",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/01_Old_Town_Road_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Old Town Road (feat. Billy Ray Cyrus) [Remix]",
+      "artist": "Lil Nas X feat. Billy Ray Cyrus",
+      "has_synced": true,
+      "path": "select/02_Old_Town_Road_(feat._Billy_Ray_Cyrus)_[Remix]_Lil_Nas_X_feat._Billy_Ray_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Old Town Road (Remix)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/03_Old_Town_Road_(Remix)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Old Town Road (Remix) (feat. Billy Ray Cyrus)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/04_Old_Town_Road_(Remix)_(feat._Billy_Ray_Cyrus)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Old Town Road",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Miche Braden",
+      "has_synced": true,
+      "path": "select/05_Old_Town_Road_Scott_Bradlee's_Postmodern_Jukebox_feat._Miche_Braden.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Old Town Road - Diplo Remix",
+      "artist": "Lil Nas X feat. Billy Ray Cyrus & Diplo",
+      "has_synced": true,
+      "path": "select/06_Old_Town_Road_-_Diplo_Remix_Lil_Nas_X_feat._Billy_Ray_Cyrus_&_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Old Town Road (Diplo Remix) (feat. Lil Nas X & Billy Ray Cyrus)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/07_Old_Town_Road_(Diplo_Remix)_(feat._Lil_Nas_X_&_Billy_Ray_Cyrus)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Old Town Road - Remix",
+      "artist": "Lil Nas X/Billy Ray Cyrus",
+      "has_synced": true,
+      "path": "select/08_Old_Town_Road_-_Remix_Lil_Nas_X_Billy_Ray_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Old Town Road (feat. Billy Ray Cyrus) (Remix)",
+      "artist": "Lil Nas X, Billy Ray Cyrus",
+      "has_synced": true,
+      "path": "select/09_Old_Town_Road_(feat._Billy_Ray_Cyrus)_(Remix)_Lil_Nas_X,_Billy_Ray_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Old Town Road",
+      "artist": "Lil Nas X feat. Billy Ray Cyrus",
+      "has_synced": true,
+      "path": "select/10_Old_Town_Road_Lil_Nas_X_feat._Billy_Ray_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "OLD TOWN ROAD",
+      "artist": "LIL NAS X",
+      "has_synced": true,
+      "path": "select/11_OLD_TOWN_ROAD_LIL_NAS_X.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Old Town Road (Diplo Remix)",
+      "artist": "Lil Nas X, Billy Ray Cyrus & Diplo",
+      "has_synced": true,
+      "path": "select/12_Old_Town_Road_(Diplo_Remix)_Lil_Nas_X,_Billy_Ray_Cyrus_&_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Old Town Road (feat. RM of BTS) - Seoul Town Road Remix",
+      "artist": "Lil Nas X feat. RM & BTS",
+      "has_synced": true,
+      "path": "select/13_Old_Town_Road_(feat._RM_of_BTS)_-_Seoul_Town_Road_Remix_Lil_Nas_X_feat._RM_&_BTS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Old Town Road (Feat. RM of BTS) (Seoul Town Road Remix)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/14_Old_Town_Road_(Feat._RM_of_BTS)_(Seoul_Town_Road_Remix)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Old Town Road (Remix) (Feat. Billy Ray Cyrus)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/15_Old_Town_Road_(Remix)_(Feat._Billy_Ray_Cyrus)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Old Town Road (Remix) [feat. Billy Ray Cyrus, Young Thug & Mason Ramsey]",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/16_Old_Town_Road_(Remix)_[feat._Billy_Ray_Cyrus,_Young_Thug_&_Mason_Ramsey]_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Old Town Road (Remix) (Feat. Billy Ray Cyrus, Young Thug & Mason Ramsey)",
+      "artist": "Lil Nas X",
+      "has_synced": true,
+      "path": "select/17_Old_Town_Road_(Remix)_(Feat._Billy_Ray_Cyrus,_Young_Thug_&_Mason_Ramsey)_Lil_Nas_X.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Old Town Road (remix)",
+      "artist": "Lil Nas X feat. Billy Ray Cyrus",
+      "has_synced": true,
+      "path": "select/18_Old_Town_Road_(remix)_Lil_Nas_X_feat._Billy_Ray_Cyrus.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Old Town Road",
+      "artist": "Lil Nas X",
+      "has_synced": false,
+      "path": "select/pl_01_Old_Town_Road_Lil_Nas_X.txt"
+    }
+  ]
+}
